@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaerus&label=Profile%20views&color=0e75b6&style=flat" alt="rafaerus" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafaerus" alt="rafaerus" /></a> </p>
-
 - 🔭 I’m currently student of **SKOMDA**
 
 - 👯 I’m looking to collaborate on [booklibs](https://github.com/rafaerus/booklibs.git)
